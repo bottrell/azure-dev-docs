@@ -14,7 +14,7 @@ ms.custom: devx-track-terraform
 In this article, you learn how to do the following tasks:
 
 > [!div class="checklist"]
-> * Use HCL (HashiCorp Language) to define a Kubernetes cluster
+> * Use HCL (Hashicorp Configuration Language) to define a Kubernetes cluster
 > * Use Terraform and AKS to create a Kubernetes cluster
 > * Use the kubectl tool to test the availability of a Kubernetes cluster
 
